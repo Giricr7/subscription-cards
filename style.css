@@ -21,3 +21,7 @@ label {
   color: white;
   background: green;
 }
+
+.card:hover{
+  transform: translateY(-20px);
+}
