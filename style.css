@@ -16,3 +16,8 @@
 label {
   color: #bf360c;
 }
+
+.btn:hover{
+  color: white;
+  background: green;
+}
